@@ -1,0 +1,101 @@
+order_id,order_date,customer_id,product_category,product_name,quantity,unit_price,total_price,region
+O0001,2023-04-26,C018,Clothing,Jeans,4,193.07,772.28,West
+O0002,2023-08-03,C013,Clothing,Jeans,1,186.18,186.18,East
+O0003,2023-12-04,C010,Electronics,Laptop,5,563.02,2815.1,East
+O0004,2023-03-01,C008,Home & Kitchen,Vacuum Cleaner,4,822.4,3289.6,North
+O0005,2023-09-21,C004,Clothing,Jacket,4,608.25,2433.0,North
+O0006,2023-10-13,C002,Books,Magazine,1,853.54,853.54,West
+O0007,2023-06-20,C017,Electronics,Laptop,4,731.29,2925.16,South
+O0008,2023-07-24,C009,Home & Kitchen,Vacuum Cleaner,2,109.31,218.62,South
+O0009,2023-01-15,C014,Books,Textbook,2,468.97,937.94,East
+O0010,2023-01-30,C002,Home & Kitchen,Cookware,1,83.82,83.82,East
+O0011,2023-04-23,C013,Electronics,Laptop,4,407.64,1630.56,West
+O0012,2023-01-30,C006,Books,Textbook,4,331.78,1327.12,West
+O0013,2023-06-27,C001,Clothing,Jeans,2,538.63,1077.26,South
+O0014,2023-09-15,C004,Home & Kitchen,Cookware,2,229.03,458.06,West
+O0015,2023-12-26,C013,Home & Kitchen,Cookware,4,79.57,318.28,South
+O0016,2023-01-02,C020,Home & Kitchen,Mixer,4,382.16,1528.64,West
+O0017,2023-03-10,C008,Home & Kitchen,Mixer,1,660.81,660.81,North
+O0018,2023-05-27,C018,Home & Kitchen,Cookware,2,788.41,1576.82,West
+O0019,2023-06-24,C008,Books,Novel,5,111.54,557.7,East
+O0020,2023-05-28,C008,Books,Textbook,3,447.12,1341.36,South
+O0021,2023-06-15,C004,Home & Kitchen,Mixer,1,425.85,425.85,East
+O0022,2023-11-07,C005,Home & Kitchen,Vacuum Cleaner,1,643.55,643.55,West
+O0023,2023-01-27,C014,Electronics,Headphones,3,922.59,2767.77,South
+O0024,2023-10-21,C014,Home & Kitchen,Mixer,3,707.06,2121.18,West
+O0025,2023-12-17,C013,Clothing,T-shirt,3,730.11,2190.33,East
+O0026,2023-09-16,C008,Electronics,Headphones,5,514.32,2571.6,West
+O0027,2023-08-22,C008,Clothing,Jeans,4,136.16,544.64,North
+O0028,2023-08-31,C018,Clothing,T-shirt,5,97.68,488.4,West
+O0029,2023-05-22,C020,Electronics,Smartphone,3,660.69,1982.07,East
+O0030,2023-07-28,C014,Books,Novel,5,504.1,2520.5,North
+O0031,2023-05-13,C019,Electronics,Laptop,1,656.95,656.95,North
+O0032,2023-12-22,C015,Home & Kitchen,Cookware,4,835.69,3342.76,East
+O0033,2023-11-01,C012,Home & Kitchen,Mixer,1,266.29,266.29,South
+O0034,2023-04-23,C014,Home & Kitchen,Mixer,1,737.91,737.91,East
+O0035,2023-08-31,C005,Books,Textbook,1,854.39,854.39,East
+O0036,2023-06-29,C002,Electronics,Laptop,4,357.94,1431.76,South
+O0037,2023-08-10,C012,Home & Kitchen,Cookware,2,258.35,516.7,West
+O0038,2023-12-30,C004,Electronics,Headphones,4,22.65,90.6,East
+O0039,2023-05-22,C010,Books,Magazine,3,217.02,651.06,East
+O0040,2023-11-03,C013,Books,Novel,1,161.67,161.67,North
+O0041,2023-07-15,C005,Clothing,Jacket,1,755.81,755.81,South
+O0042,2023-07-26,C009,Books,Magazine,3,723.53,2170.59,East
+O0043,2023-02-16,C019,Books,Textbook,5,215.86,1079.3,West
+O0044,2023-02-27,C014,Books,Magazine,1,121.62,121.62,West
+O0045,2023-02-18,C013,Clothing,Jacket,1,409.49,409.49,West
+O0046,2023-09-02,C001,Books,Novel,4,605.19,2420.76,West
+O0047,2023-07-04,C001,Clothing,Jeans,5,735.98,3679.9,North
+O0048,2023-07-26,C007,Books,Novel,2,363.49,726.98,North
+O0049,2023-03-24,C014,Electronics,Smartphone,4,582.31,2329.24,North
+O0050,2023-12-14,C016,Books,Textbook,5,659.21,3296.05,North
+O0051,2023-04-17,C013,Clothing,T-shirt,1,366.08,366.08,North
+O0052,2023-09-17,C007,Electronics,Smartphone,1,163.51,163.51,East
+O0053,2023-10-23,C011,Electronics,Smartphone,5,924.64,4623.2,East
+O0054,2023-11-13,C012,Books,Novel,1,327.77,327.77,East
+O0055,2023-11-25,C004,Home & Kitchen,Cookware,5,336.18,1680.9,East
+O0056,2023-01-02,C017,Home & Kitchen,Vacuum Cleaner,5,718.84,3594.2,North
+O0057,2023-07-26,C008,Clothing,Jeans,4,371.49,1485.96,South
+O0058,2023-03-13,C008,Home & Kitchen,Mixer,3,118.2,354.6,East
+O0059,2023-08-31,C006,Books,Novel,4,496.04,1984.16,East
+O0060,2023-10-01,C016,Clothing,Jeans,5,378.9,1894.5,West
+O0061,2023-09-06,C007,Books,Novel,2,113.54,227.08,West
+O0062,2023-03-05,C001,Books,Novel,1,425.63,425.63,West
+O0063,2023-03-07,C006,Clothing,Jeans,2,932.16,1864.32,West
+O0064,2023-06-05,C011,Home & Kitchen,Vacuum Cleaner,2,744.12,1488.24,North
+O0065,2023-06-23,C011,Electronics,Headphones,2,639.7,1279.4,South
+O0066,2023-05-26,C006,Home & Kitchen,Vacuum Cleaner,4,389.86,1559.44,South
+O0067,2023-04-14,C005,Books,Textbook,4,263.93,1055.72,East
+O0068,2023-05-24,C006,Electronics,Smartphone,3,706.97,2120.91,West
+O0069,2023-01-08,C009,Books,Magazine,1,563.63,563.63,South
+O0070,2023-12-15,C002,Electronics,Headphones,2,121.29,242.58,South
+O0071,2023-07-27,C016,Home & Kitchen,Cookware,3,118.29,354.87,West
+O0072,2023-09-10,C007,Home & Kitchen,Mixer,3,361.92,1085.76,West
+O0073,2023-06-30,C014,Electronics,Smartphone,1,536.4,536.4,North
+O0074,2023-11-14,C016,Clothing,Jeans,4,427.77,1711.08,North
+O0075,2023-06-16,C004,Books,Novel,2,700.46,1400.92,North
+O0076,2023-08-09,C010,Electronics,Laptop,5,903.05,4515.25,North
+O0077,2023-09-05,C019,Electronics,Smartphone,2,875.58,1751.16,South
+O0078,2023-10-04,C008,Books,Magazine,4,585.58,2342.32,West
+O0079,2023-04-28,C003,Books,Magazine,4,445.85,1783.4,South
+O0080,2023-06-17,C004,Home & Kitchen,Cookware,4,295.42,1181.68,North
+O0081,2023-01-02,C004,Electronics,Headphones,2,489.14,978.28,South
+O0082,2023-07-16,C006,Electronics,Headphones,3,295.09,885.27,North
+O0083,2023-08-13,C011,Electronics,Laptop,1,43.31,43.31,North
+O0084,2023-09-08,C014,Electronics,Laptop,5,828.05,4140.25,West
+O0085,2023-03-18,C001,Electronics,Smartphone,1,516.01,516.01,West
+O0086,2023-11-24,C007,Home & Kitchen,Cookware,4,288.77,1155.08,North
+O0087,2023-07-29,C002,Home & Kitchen,Cookware,3,628.88,1886.64,South
+O0088,2023-10-08,C015,Clothing,T-shirt,1,183.42,183.42,South
+O0089,2023-03-10,C019,Electronics,Laptop,1,117.01,117.01,South
+O0090,2023-03-13,C002,Home & Kitchen,Mixer,4,280.47,1121.88,North
+O0091,2023-06-21,C012,Home & Kitchen,Vacuum Cleaner,5,612.91,3064.55,East
+O0092,2023-10-14,C001,Home & Kitchen,Vacuum Cleaner,2,593.98,1187.96,North
+O0093,2023-01-19,C020,Books,Novel,4,60.83,243.32,South
+O0094,2023-03-11,C005,Electronics,Smartphone,3,84.58,253.74,South
+O0095,2023-09-15,C004,Electronics,Headphones,1,226.41,226.41,West
+O0096,2023-12-22,C020,Electronics,Headphones,4,336.93,1347.72,North
+O0097,2023-10-01,C001,Electronics,Headphones,1,13.31,13.31,West
+O0098,2023-12-10,C007,Books,Textbook,4,147.33,589.32,East
+O0099,2023-05-09,C006,Books,Textbook,5,798.67,3993.35,East
+O0100,2023-12-20,C004,Electronics,Headphones,1,141.54,141.54,South
